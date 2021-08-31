@@ -1,4 +1,4 @@
-# E-Mail Classification
+# E-Mail Classification ML Model
 
 **GOAL:**
 Classify emails as spam or not-spam on the basis of the message.
